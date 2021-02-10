@@ -1,0 +1,17 @@
+# DS store
+.DS_Store
+../.DS_Store
+
+# vscode
+.vscode/
+
+# env
+env/ 
+
+# large dataset
+notebooks/datasets/2020-01-01-2020-12-31.csv
+./notebooks/datasets/2020-01-01-2020-12-31.csv
+notebooks/datasets/2020-01-01-2020-12-31.csv
+
+# ipynb checkpoints
+notebooks/.ipynb_checkpoints/acled_data_exploration-checkpoint.ipynb
